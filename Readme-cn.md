@@ -7,7 +7,7 @@
 **Auto.js 开源版本已不再维护(原因参见[Auto.js Pro FAQ](https://pro.autojs.org/faq))，后续将只维护[Auto.js Pro专业版](https://pro.autojs.org)，更多信息查看[Auto.js Pro文档](https://pro.autojs.org/docs)和[Auto.js Pro特性](https://pro.autojs.org/features)。**
 
 ## 简介
-
+ 
 一个支持无障碍服务的Android平台上的JavaScript IDE，其发展目标是JsBox和Workflow。
 
 同时有[VS Code 插件](https://github.com/hyb1996/Auto.js-VSCode-Extension)可提供基础的在桌面开发的功能。
